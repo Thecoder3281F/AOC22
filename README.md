@@ -9,3 +9,5 @@ My compiler: g++ (mingw64)
 Day 1: Both parts in 1 file
 
 Day 2: Each part in separate files
+
+Day 3: Each part in separate files
