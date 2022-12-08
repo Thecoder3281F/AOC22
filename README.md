@@ -5,5 +5,7 @@ My compiler: g++ (mingw64)
 
 
 The solutions for the various days:
+
 Day 1: Both parts in 1 file
+
 Day 2: Each part in separate files
