@@ -14,4 +14,6 @@ Day 3: Each part in separate files
 
 Day 4: Both parts in 1 file
 
+Day 5: Each part in separate files
+
 Day 6: Both parts in 1 file
